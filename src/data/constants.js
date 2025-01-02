@@ -177,7 +177,7 @@ export const projects = [
     title: "Estate Website",
     description:
       "Estate is a modern real estate website built with React and styled using Tailwind CSS. It offers a responsive design, dynamic property showcases, and intuitive navigation, providing a seamless platform for buyers, sellers, and agents.",
-    image: "../images/Project Image/Estate.png",
+    image: "https://github.com/sonusingh-rajput/my-portfolio/blob/main/src/images/project_image/Estate.png",
     tags: ["React Js", "Tailwind CSS", "Javascript", "CSS"],
     category: "web app",
     github: "https://github.com/sonusingh-rajput/Estate-Website",
@@ -188,7 +188,7 @@ export const projects = [
     title: "My Portfolio",
     description:
       "My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.",
-    image: "",
+    image: "https://github.com/sonusingh-rajput/my-portfolio/blob/main/src/images/project_image/porfolio.png",
     tags: ["React Js", "HTML5", "Tailwind CSS", "Javascript"],
     category: "web app",
     github: "",
